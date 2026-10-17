@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sancap" format="2">
+  <advance width="1686" height="1686"/>
+  <unicode hex="03FA"/>
+  <anchor x="856" y="1408" name="top"/>
+  <outline>
+    <contour>
+      <point x="491" y="1456" type="line"/>
+      <point x="854" y="971" type="line"/>
+      <point x="1186" y="1456" type="line"/>
+      <point x="1622" y="1339" type="line"/>
+      <point x="1622" y="0" type="line"/>
+      <point x="1172" y="0" type="line"/>
+      <point x="1183" y="678" type="line"/>
+      <point x="993" y="393" type="line"/>
+      <point x="753" y="364" type="line"/>
+      <point x="550" y="739" type="line"/>
+      <point x="549" y="0" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="64" y="1336" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1436</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>64</integer>
+            <key>width</key>
+            <integer>485</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1172</integer>
+            <key>width</key>
+            <integer>450</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="deltacap" format="2">
+  <advance width="1539" height="1539"/>
+  <unicode hex="0394"/>
+  <anchor x="809" y="1373" name="top"/>
+  <outline>
+    <contour>
+      <point x="505" y="1456" type="line"/>
+      <point x="1108" y="1291" type="line"/>
+      <point x="1475" y="0" type="line"/>
+      <point x="64" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="764" y="924" type="line"/>
+      <point x="589" y="296" type="line"/>
+      <point x="946" y="296" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>296</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1436</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

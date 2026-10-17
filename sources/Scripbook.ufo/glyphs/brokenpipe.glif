@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenpipe" format="2">
+  <advance width="548" height="548"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="64" y="1536" type="line"/>
+      <point x="484" y="1536" type="line"/>
+      <point x="484" y="850" type="line"/>
+      <point x="64" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="64" y="558" type="line"/>
+      <point x="484" y="558" type="line"/>
+      <point x="484" y="-128" type="line"/>
+      <point x="64" y="-128" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>64</integer>
+            <key>width</key>
+            <integer>420</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

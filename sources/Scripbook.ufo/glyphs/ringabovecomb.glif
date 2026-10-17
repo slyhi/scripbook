@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringabovecomb" format="2">
+  <advance width="0" height="0"/>
+  <unicode hex="030A"/>
+  <anchor x="-715" y="2351" name="mkmktop"/>
+  <anchor x="-717" y="1581" name="_mkmktop"/>
+  <anchor x="-717" y="1516" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-715" y="2352" type="line"/>
+      <point x="-465" y="2247" type="line"/>
+      <point x="-362" y="1997" type="line"/>
+      <point x="-467" y="1747" type="line"/>
+      <point x="-717" y="1644" type="line"/>
+      <point x="-967" y="1749" type="line"/>
+      <point x="-1070" y="1999" type="line"/>
+      <point x="-965" y="2249" type="line"/>
+    </contour>
+    <contour>
+      <point x="-716" y="2111" type="line"/>
+      <point x="-796" y="2078" type="line"/>
+      <point x="-829" y="1999" type="line"/>
+      <point x="-796" y="1919" type="line"/>
+      <point x="-717" y="1885" type="line"/>
+      <point x="-637" y="1918" type="line"/>
+      <point x="-603" y="1998" type="line"/>
+      <point x="-636" y="2078" type="line"/>
+    </contour>
+  </outline>
+</glyph>

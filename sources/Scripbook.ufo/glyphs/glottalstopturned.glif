@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glottalstopturned" format="2">
+  <advance width="1202" height="1202"/>
+  <unicode hex="0296"/>
+  <anchor x="707" y="1408" name="top"/>
+  <anchor x="694" y="-48" name="cedilla"/>
+  <anchor x="694" y="-48" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="694" y="-48" type="line"/>
+      <point x="248" y="142" type="line"/>
+      <point x="64" y="598" type="line"/>
+      <point x="251" y="1052" type="line"/>
+      <point x="491" y="1119" type="line"/>
+      <point x="500" y="1408" type="line"/>
+      <point x="904" y="1408" type="line"/>
+      <point x="891" y="768" type="line"/>
+      <point x="727" y="748" type="line"/>
+      <point x="562" y="704" type="line"/>
+      <point x="506" y="596" type="line"/>
+      <point x="561" y="487" type="line"/>
+      <point x="726" y="442" type="line"/>
+      <point x="890" y="487" type="line"/>
+      <point x="1138" y="89" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-48</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1388</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>491</integer>
+            <key>width</key>
+            <integer>413</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

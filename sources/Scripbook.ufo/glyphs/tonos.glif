@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos" format="2">
+  <advance width="875" height="875"/>
+  <unicode hex="0384"/>
+  <anchor x="268" y="720" name="_top"/>
+  <outline>
+    <component base="acutecomb" xOffset="1134" yOffset="-896"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>848</integer>
+            <key>width</key>
+            <integer>608</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

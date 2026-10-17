@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="victorsmcp" format="2">
+  <advance width="1180" height="1180"/>
+  <unicode hex="1D20"/>
+  <anchor x="588" y="1024" name="top"/>
+  <anchor x="561" y="35" name="cedilla"/>
+  <anchor x="795" y="-31" name="ogonek"/>
+  <outline>
+    <component base="victorsmall"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-32</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1004</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

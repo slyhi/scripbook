@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sierracap" format="2">
+  <advance width="1236" height="1236"/>
+  <unicode hex="0053"/>
+  <anchor x="601" y="-48" name="ogonek"/>
+  <anchor x="601" y="-48" name="cedilla"/>
+  <anchor x="582" y="1456" name="top"/>
+  <outline>
+    <contour>
+      <point x="582" y="1456" type="line"/>
+      <point x="1117" y="1385" type="line"/>
+      <point x="1003" y="927" type="line"/>
+      <point x="730" y="1012" type="line"/>
+      <point x="550" y="1009" type="line"/>
+      <point x="519" y="969" type="line"/>
+      <point x="548" y="916" type="line"/>
+      <point x="755" y="908" type="line"/>
+      <point x="1061" y="773" type="line"/>
+      <point x="1172" y="500" type="line"/>
+      <point x="1019" y="102" type="line"/>
+      <point x="601" y="-48" type="line"/>
+      <point x="98" y="41" type="line"/>
+      <point x="220" y="487" type="line"/>
+      <point x="323" y="461"/>
+      <point x="427" y="434"/>
+      <point x="530" y="408" type="curve"/>
+      <point x="650" y="416" type="line"/>
+      <point x="699" y="460" type="line"/>
+      <point x="664" y="516" type="line"/>
+      <point x="391" y="527" type="line"/>
+      <point x="147" y="660" type="line"/>
+      <point x="64" y="908" type="line"/>
+      <point x="215" y="1308" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-48</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1436</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

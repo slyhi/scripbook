@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonekcomb" format="2">
+  <advance width="0" height="0"/>
+  <unicode hex="0328"/>
+  <anchor x="-727" y="80" name="_ogonek"/>
+  <outline>
+    <contour>
+      <point x="-462" y="-48" type="line"/>
+      <point x="-361" y="-395" type="line"/>
+      <point x="-673" y="-464" type="line"/>
+      <point x="-955" y="-354" type="line"/>
+      <point x="-1070" y="-84" type="line"/>
+      <point x="-983" y="187" type="line"/>
+      <point x="-842" y="288" type="line"/>
+      <point x="-727" y="80" type="line"/>
+      <point x="-782" y="55" type="line"/>
+      <point x="-810" y="-19" type="line"/>
+      <point x="-764" y="-102" type="line"/>
+      <point x="-635" y="-116" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-68</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

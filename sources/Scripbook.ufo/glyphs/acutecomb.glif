@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="2">
+  <advance width="0" height="0"/>
+  <unicode hex="0301"/>
+  <anchor x="-857" y="2352" name="mkmktop"/>
+  <anchor x="-862" y="1681" name="_mkmktop"/>
+  <anchor x="-862" y="1616" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-717" y="2352" type="line"/>
+      <point x="-323" y="2304" type="line"/>
+      <point x="-688" y="1744" type="line"/>
+      <point x="-1070" y="1744" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1744</integer>
+            <key>width</key>
+            <integer>608</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

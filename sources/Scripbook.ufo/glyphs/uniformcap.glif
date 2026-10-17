@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniformcap" format="2">
+  <advance width="1465" height="1465"/>
+  <unicode hex="0055"/>
+  <anchor x="733" y="-48" name="ogonek"/>
+  <anchor x="733" y="-48" name="cedilla"/>
+  <anchor x="741" y="1408" name="top"/>
+  <outline>
+    <contour>
+      <point x="106" y="1408" type="line"/>
+      <point x="555" y="1408" type="line"/>
+      <point x="515" y="680" type="line"/>
+      <point x="555" y="500" type="line"/>
+      <point x="625" y="418" type="line"/>
+      <point x="733" y="392" type="line"/>
+      <point x="840" y="418" type="line"/>
+      <point x="911" y="500" type="line"/>
+      <point x="950" y="680" type="line"/>
+      <point x="911" y="1408" type="line"/>
+      <point x="1360" y="1408" type="line"/>
+      <point x="1401" y="499" type="line"/>
+      <point x="1207" y="100" type="line"/>
+      <point x="733" y="-48" type="line"/>
+      <point x="258" y="100" type="line"/>
+      <point x="64" y="499" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-48</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1388</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>106</integer>
+            <key>width</key>
+            <integer>449</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>911</integer>
+            <key>width</key>
+            <integer>449</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

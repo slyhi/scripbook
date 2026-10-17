@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="stigmasmall" format="2">
+  <advance width="1115" height="1115"/>
+  <unicode hex="03DB"/>
+  <anchor x="608" y="1023" name="top"/>
+  <outline>
+    <contour>
+      <point x="608" y="1024" type="line"/>
+      <point x="1037" y="1024" type="line"/>
+      <point x="1008" y="624" type="line"/>
+      <point x="617" y="624" type="line"/>
+      <point x="509" y="565" type="line"/>
+      <point x="464" y="449" type="line"/>
+      <point x="509" y="333" type="line"/>
+      <point x="740" y="275" type="line"/>
+      <point x="966" y="170" type="line"/>
+      <point x="1051" y="-41" type="line"/>
+      <point x="937" y="-338" type="line"/>
+      <point x="630" y="-448" type="line"/>
+      <point x="304" y="-379" type="line"/>
+      <point x="395" y="-80" type="line"/>
+      <point x="584" y="-134" type="line"/>
+      <point x="638" y="-129" type="line"/>
+      <point x="653" y="-101" type="line"/>
+      <point x="644" y="-76" type="line"/>
+      <point x="560" y="-16" type="line"/>
+      <point x="223" y="95" type="line"/>
+      <point x="64" y="480" type="line"/>
+      <point x="223" y="865" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>624</integer>
+            <key>width</key>
+            <integer>400</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

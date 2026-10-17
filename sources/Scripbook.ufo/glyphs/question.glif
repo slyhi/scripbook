@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question" format="2">
+  <advance width="1076" height="1076"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="540" y="1450" type="line"/>
+      <point x="904" y="1320" type="line"/>
+      <point x="1058" y="997" type="line"/>
+      <point x="946" y="762" type="line"/>
+      <point x="738" y="650" type="line"/>
+      <point x="736" y="553" type="line"/>
+      <point x="546" y="553" type="line"/>
+      <point x="848" y="250" type="line"/>
+      <point x="544" y="-54" type="line"/>
+      <point x="240" y="250" type="line"/>
+      <point x="542" y="553" type="line"/>
+      <point x="332" y="553" type="line"/>
+      <point x="342" y="857" type="line"/>
+      <point x="426" y="876"/>
+      <point x="510" y="896"/>
+      <point x="592" y="921" type="curve"/>
+      <point x="562" y="1018" type="line"/>
+      <point x="450" y="1018" type="line"/>
+      <point x="418" y="970" type="line"/>
+      <point x="18" y="1066" type="line"/>
+      <point x="120" y="1303" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>553</integer>
+            <key>width</key>
+            <integer>304</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1430</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

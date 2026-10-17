@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="novembercap" format="2">
+  <advance width="1422" height="1422"/>
+  <unicode hex="004E"/>
+  <anchor x="505" y="0" name="ogonek"/>
+  <anchor x="275" y="0" name="cedilla"/>
+  <anchor x="714" y="1409" name="top"/>
+  <outline>
+    <contour>
+      <point x="64" y="1339" type="line"/>
+      <point x="497" y="1456" type="line"/>
+      <point x="943" y="656" type="line"/>
+      <point x="916" y="1408" type="line"/>
+      <point x="1358" y="1408" type="line"/>
+      <point x="1358" y="72" type="line"/>
+      <point x="925" y="-48" type="line"/>
+      <point x="479" y="752" type="line"/>
+      <point x="505" y="0" type="line"/>
+      <point x="64" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-27</integer>
+            <key>width</key>
+            <integer>27</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1408</integer>
+            <key>width</key>
+            <integer>28</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>64</integer>
+            <key>width</key>
+            <integer>441</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>64</integer>
+            <key>width</key>
+            <integer>415</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>916</integer>
+            <key>width</key>
+            <integer>442</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>943</integer>
+            <key>width</key>
+            <integer>415</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

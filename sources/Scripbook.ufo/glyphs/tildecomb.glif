@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb" format="2">
+  <advance width="0" height="0"/>
+  <unicode hex="0303"/>
+  <anchor x="-508" y="1788" name="_mkmktop"/>
+  <anchor x="-509" y="2282" name="mkmktop"/>
+  <anchor x="-508" y="1723" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-737" y="2281" type="line"/>
+      <point x="-518" y="2219" type="line"/>
+      <point x="-430" y="2107" type="line"/>
+      <point x="-341" y="2151" type="line"/>
+      <point x="-321" y="2237" type="line"/>
+      <point x="-46" y="2211" type="line"/>
+      <point x="-62" y="2043" type="line"/>
+      <point x="-160" y="1885" type="line"/>
+      <point x="-379" y="1815" type="line"/>
+      <point x="-598" y="1877" type="line"/>
+      <point x="-686" y="1989" type="line"/>
+      <point x="-775" y="1945" type="line"/>
+      <point x="-795" y="1859" type="line"/>
+      <point x="-1070" y="1885" type="line"/>
+      <point x="-1054" y="2053" type="line"/>
+      <point x="-956" y="2211" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1815</integer>
+            <key>width</key>
+            <integer>466</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

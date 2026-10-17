@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="limasmall" format="2">
+  <advance width="912" height="912"/>
+  <unicode hex="006C"/>
+  <anchor x="847" y="0" name="ogonek"/>
+  <anchor x="460" y="0" name="cedilla"/>
+  <anchor x="448" y="1408" name="top"/>
+  <outline>
+    <contour>
+      <point x="64" y="1408" type="line"/>
+      <point x="658" y="1408" type="line"/>
+      <point x="658" y="341" type="line"/>
+      <point x="828" y="350" type="line"/>
+      <point x="848" y="0" type="line"/>
+      <point x="65" y="0" type="line"/>
+      <point x="85" y="350" type="line"/>
+      <point x="255" y="341" type="line"/>
+      <point x="255" y="1068" type="line"/>
+      <point x="99" y="1063" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>350</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1388</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>255</integer>
+            <key>width</key>
+            <integer>403</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zulusmcp" format="2">
+  <advance width="924" height="924"/>
+  <unicode hex="1D22"/>
+  <anchor x="463" y="1024" name="top"/>
+  <anchor x="473" y="0" name="cedilla"/>
+  <anchor x="860" y="0" name="ogonek"/>
+  <outline>
+    <component base="zulusmall"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>397</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>653</integer>
+            <key>width</key>
+            <integer>371</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

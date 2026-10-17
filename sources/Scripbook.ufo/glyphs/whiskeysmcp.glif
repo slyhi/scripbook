@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="whiskeysmcp" format="2">
+  <advance width="1581" height="1581"/>
+  <unicode hex="1D21"/>
+  <anchor x="795" y="1022" name="top"/>
+  <anchor x="432" y="10" name="cedilla"/>
+  <anchor x="608" y="-32" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="64" y="1024" type="line"/>
+      <point x="497" y="1024" type="line"/>
+      <point x="578" y="742" type="line"/>
+      <point x="683" y="969" type="line"/>
+      <point x="910" y="907" type="line"/>
+      <point x="1007" y="707" type="line"/>
+      <point x="1083" y="1024" type="line"/>
+      <point x="1517" y="1024" type="line"/>
+      <point x="1352" y="67" type="line"/>
+      <point x="999" y="-32" type="line"/>
+      <point x="786" y="332" type="line"/>
+      <point x="608" y="-32" type="line"/>
+      <point x="247" y="54" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-32</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1004</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

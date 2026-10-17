@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="becap" format="2">
+  <advance width="1287" height="1287"/>
+  <unicode hex="0411"/>
+  <anchor x="628" y="1407" name="top"/>
+  <outline>
+    <contour>
+      <point x="64" y="1408" type="line"/>
+      <point x="1125" y="1408" type="line"/>
+      <point x="1075" y="1034" type="line"/>
+      <point x="508" y="1040" type="line"/>
+      <point x="509" y="872" type="line"/>
+      <point x="769" y="872" type="line"/>
+      <point x="1094" y="702" type="line"/>
+      <point x="1223" y="452" type="line"/>
+      <point x="1112" y="136" type="line"/>
+      <point x="762" y="0" type="line"/>
+      <point x="64" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="739" y="539" type="line"/>
+      <point x="509" y="538" type="line"/>
+      <point x="505" y="366" type="line"/>
+      <point x="756" y="366" type="line"/>
+      <point x="806" y="387" type="line"/>
+      <point x="831" y="452" type="line"/>
+      <point x="807" y="511" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>366</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>538</integer>
+            <key>width</key>
+            <integer>334</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1034</integer>
+            <key>width</key>
+            <integer>374</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>64</integer>
+            <key>width</key>
+            <integer>445</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

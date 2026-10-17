@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ljesmall" format="2">
+  <advance width="1885" height="1885"/>
+  <unicode hex="0459"/>
+  <anchor x="823" y="1023" name="top"/>
+  <outline>
+    <contour>
+      <point x="352" y="1024" type="line"/>
+      <point x="1326" y="1024" type="line"/>
+      <point x="1324" y="794" type="line"/>
+      <point x="1485" y="796" type="line"/>
+      <point x="1719" y="639" type="line"/>
+      <point x="1821" y="412" type="line"/>
+      <point x="1735" y="86" type="line"/>
+      <point x="1385" y="0" type="line"/>
+      <point x="889" y="0" type="line"/>
+      <point x="896" y="626" type="line"/>
+      <point x="760" y="626" type="line"/>
+      <point x="767" y="306" type="line"/>
+      <point x="633" y="60" type="line"/>
+      <point x="346" y="-32" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="160" y="352" type="line"/>
+      <point x="256" y="336" type="line"/>
+      <point x="308" y="346" type="line"/>
+      <point x="340" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="1371" y="443" type="line"/>
+      <point x="1320" y="431" type="line"/>
+      <point x="1320" y="357" type="line"/>
+      <point x="1376" y="343" type="line"/>
+      <point x="1436" y="362" type="line"/>
+      <point x="1446" y="409" type="line"/>
+      <point x="1430" y="428" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1004</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

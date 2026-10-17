@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pilcrow" format="2">
+  <advance width="1478" height="1478"/>
+  <unicode hex="00B6"/>
+  <outline>
+    <contour>
+      <point x="564" y="1408" type="line"/>
+      <point x="1460" y="1408" type="line"/>
+      <point x="1366" y="1191" type="line"/>
+      <point x="1286" y="1191" type="line"/>
+      <point x="1286" y="-384" type="line"/>
+      <point x="1030" y="-384" type="line"/>
+      <point x="1030" y="1168" type="line"/>
+      <point x="861" y="1168" type="line"/>
+      <point x="861" y="-384" type="line"/>
+      <point x="564" y="-384" type="line"/>
+      <point x="562" y="487" type="line"/>
+      <point x="177" y="622" type="line"/>
+      <point x="18" y="948" type="line"/>
+      <point x="177" y="1273" type="line"/>
+      <point x="564" y="1407" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-384</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1168</integer>
+            <key>width</key>
+            <integer>240</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>564</integer>
+            <key>width</key>
+            <integer>297</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1030</integer>
+            <key>width</key>
+            <integer>256</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

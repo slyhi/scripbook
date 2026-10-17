@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="limasmcp" format="2">
+  <advance width="880" height="880"/>
+  <unicode hex="029F"/>
+  <anchor x="276" y="1024" name="top"/>
+  <anchor x="441" y="0" name="cedilla"/>
+  <anchor x="816" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="64" y="1024" type="line"/>
+      <point x="486" y="1024" type="line"/>
+      <point x="483" y="419" type="line"/>
+      <point x="779" y="425" type="line"/>
+      <point x="816" y="0" type="line"/>
+      <point x="64" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>419</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1004</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>64</integer>
+            <key>width</key>
+            <integer>419</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

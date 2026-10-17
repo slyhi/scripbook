@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gammasmall" format="2">
+  <advance width="1180" height="1180"/>
+  <unicode hex="03B3"/>
+  <anchor x="611" y="1027" name="top"/>
+  <outline>
+    <contour>
+      <point x="64" y="1024" type="line"/>
+      <point x="479" y="1024" type="line"/>
+      <point x="602" y="544" type="line"/>
+      <point x="689" y="771" type="line"/>
+      <point x="700" y="1024" type="line"/>
+      <point x="1116" y="1024" type="line"/>
+      <point x="1056" y="655" type="line"/>
+      <point x="807" y="-32" type="line"/>
+      <point x="807" y="-384" type="line"/>
+      <point x="388" y="-384" type="line"/>
+      <point x="388" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-384</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1004</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>388</integer>
+            <key>width</key>
+            <integer>419</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

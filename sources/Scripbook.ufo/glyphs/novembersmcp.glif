@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="novembersmcp" format="2">
+  <advance width="1114" height="1114"/>
+  <unicode hex="0274"/>
+  <anchor x="561" y="1024" name="top"/>
+  <anchor x="268" y="0" name="cedilla"/>
+  <anchor x="459" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="424" y="1056" type="line"/>
+      <point x="666" y="710" type="line"/>
+      <point x="655" y="1024" type="line"/>
+      <point x="1050" y="1024" type="line"/>
+      <point x="1050" y="57" type="line"/>
+      <point x="690" y="-32" type="line"/>
+      <point x="448" y="314" type="line"/>
+      <point x="459" y="0" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="64" y="967" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-11</integer>
+            <key>width</key>
+            <integer>11</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1024</integer>
+            <key>width</key>
+            <integer>12</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>64</integer>
+            <key>width</key>
+            <integer>395</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>666</integer>
+            <key>width</key>
+            <integer>384</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

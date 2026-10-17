@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotabovecomb" format="2">
+  <advance width="0" height="0"/>
+  <unicode hex="0307"/>
+  <anchor x="-766" y="1681" name="_mkmktop"/>
+  <anchor x="-766" y="2351" name="mkmktop"/>
+  <anchor x="-766" y="1616" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-766" y="1744" type="line"/>
+      <point x="-1070" y="2048" type="line"/>
+      <point x="-766" y="2352" type="line"/>
+      <point x="-462" y="2048" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1744</integer>
+            <key>width</key>
+            <integer>608</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-1070</integer>
+            <key>width</key>
+            <integer>608</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

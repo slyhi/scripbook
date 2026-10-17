@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilonsmall" format="2">
+  <advance width="964" height="964"/>
+  <unicode hex="03B5"/>
+  <anchor x="504" y="1044" name="top"/>
+  <outline>
+    <contour>
+      <point x="586" y="1057" type="line"/>
+      <point x="872" y="982" type="line"/>
+      <point x="785" y="705" type="line"/>
+      <point x="588" y="756" type="line"/>
+      <point x="532" y="753" type="line"/>
+      <point x="503" y="705" type="line"/>
+      <point x="514" y="673" type="line"/>
+      <point x="546" y="655" type="line"/>
+      <point x="691" y="655" type="line"/>
+      <point x="692" y="374" type="line"/>
+      <point x="500" y="374" type="line"/>
+      <point x="462" y="353" type="line"/>
+      <point x="451" y="321" type="line"/>
+      <point x="458" y="284" type="line"/>
+      <point x="516" y="272" type="line"/>
+      <point x="795" y="321" type="line"/>
+      <point x="900" y="43" type="line"/>
+      <point x="584" y="-31" type="line"/>
+      <point x="358" y="3" type="line"/>
+      <point x="151" y="105" type="line"/>
+      <point x="64" y="354" type="line"/>
+      <point x="149" y="519" type="line"/>
+      <point x="108" y="680" type="line"/>
+      <point x="188" y="920" type="line"/>
+      <point x="356" y="1023" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-31</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>374</integer>
+            <key>width</key>
+            <integer>281</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1037</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

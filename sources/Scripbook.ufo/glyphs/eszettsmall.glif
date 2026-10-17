@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eszettsmall" format="2">
+  <advance width="1388" height="1388"/>
+  <unicode hex="00DF"/>
+  <anchor x="669" y="1476" name="top"/>
+  <anchor x="256" y="0" name="cedilla"/>
+  <anchor x="484" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="518" y="1488" type="line"/>
+      <point x="919" y="1456" type="line"/>
+      <point x="1128" y="1313" type="line"/>
+      <point x="1250" y="976" type="line"/>
+      <point x="1142" y="702" type="line"/>
+      <point x="1324" y="435" type="line"/>
+      <point x="1129" y="97" type="line"/>
+      <point x="883" y="-32" type="line"/>
+      <point x="611" y="0" type="line"/>
+      <point x="680" y="362" type="line"/>
+      <point x="807" y="336" type="line"/>
+      <point x="891" y="453" type="line"/>
+      <point x="799" y="557" type="line"/>
+      <point x="693" y="584" type="line"/>
+      <point x="674" y="816" type="line"/>
+      <point x="802" y="848" type="line"/>
+      <point x="859" y="971" type="line"/>
+      <point x="754" y="1120" type="line"/>
+      <point x="580" y="1120" type="line"/>
+      <point x="484" y="1024" type="line"/>
+      <point x="484" y="0" type="line"/>
+      <point x="66" y="0" type="line"/>
+      <point x="64" y="1150" type="line"/>
+      <point x="198" y="1396" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-11</integer>
+            <key>width</key>
+            <integer>11</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>66</integer>
+            <key>width</key>
+            <integer>418</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

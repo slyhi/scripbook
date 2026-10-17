@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hetacap" format="2">
+  <advance width="1204" height="1204"/>
+  <unicode hex="0370"/>
+  <anchor x="293" y="1405" name="top"/>
+  <outline>
+    <contour>
+      <point x="64" y="1408" type="line"/>
+      <point x="536" y="1408" type="line"/>
+      <point x="523" y="992" type="line"/>
+      <point x="1140" y="992" type="line"/>
+      <point x="1132" y="576" type="line"/>
+      <point x="523" y="567" type="line"/>
+      <point x="536" y="0" type="line"/>
+      <point x="64" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>567</integer>
+            <key>width</key>
+            <integer>425</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1388</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>64</integer>
+            <key>width</key>
+            <integer>472</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

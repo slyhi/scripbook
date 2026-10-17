@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedillacomb" format="2">
+  <advance width="0" height="0"/>
+  <unicode hex="0327"/>
+  <anchor x="-662" y="74" name="_cedilla"/>
+  <outline>
+    <contour>
+      <point x="-788" y="-481" type="line"/>
+      <point x="-1070" y="-353" type="line"/>
+      <point x="-849" y="-106" type="line"/>
+      <point x="-747" y="-153" type="line"/>
+      <point x="-666" y="-128" type="line"/>
+      <point x="-639" y="-73" type="line"/>
+      <point x="-667" y="-17" type="line"/>
+      <point x="-758" y="-1" type="line"/>
+      <point x="-841" y="-17" type="line"/>
+      <point x="-859" y="63" type="line"/>
+      <point x="-760" y="205" type="line"/>
+      <point x="-521" y="205" type="line"/>
+      <point x="-591" y="114" type="line"/>
+      <point x="-473" y="84" type="line"/>
+      <point x="-335" y="-142" type="line"/>
+      <point x="-470" y="-367" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-17</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

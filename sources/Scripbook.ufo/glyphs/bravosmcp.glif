@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bravosmcp" format="2">
+  <advance width="995" height="995"/>
+  <unicode hex="0299"/>
+  <anchor x="500" y="1024" name="top"/>
+  <anchor x="355" y="0" name="cedilla"/>
+  <anchor x="583" y="0" name="ogonek"/>
+  <outline>
+    <component base="vesmall"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>286</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1004</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

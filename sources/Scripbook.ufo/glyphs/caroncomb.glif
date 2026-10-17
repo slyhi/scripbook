@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb" format="2">
+  <advance width="0" height="0"/>
+  <unicode hex="030C"/>
+  <anchor x="-568" y="2304" name="mkmktop"/>
+  <anchor x="-568" y="1637" name="_mkmktop"/>
+  <anchor x="-568" y="1573" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-399" y="1696" type="line"/>
+      <point x="-735" y="1744" type="line"/>
+      <point x="-1070" y="2304" type="line"/>
+      <point x="-734" y="2304" type="line"/>
+      <point x="-562" y="2030" type="line"/>
+      <point x="-390" y="2304" type="line"/>
+      <point x="-46" y="2304" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1696</integer>
+            <key>width</key>
+            <integer>608</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

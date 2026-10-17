@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="besmall" format="2">
+  <advance width="1216" height="1216"/>
+  <unicode hex="0431"/>
+  <anchor x="610" y="1407" name="top"/>
+  <outline>
+    <contour>
+      <point x="610" y="1408" type="line"/>
+      <point x="992" y="1408" type="line"/>
+      <point x="960" y="1104" type="line"/>
+      <point x="640" y="1105" type="line"/>
+      <point x="550" y="1040" type="line"/>
+      <point x="610" y="1056" type="line"/>
+      <point x="994" y="895" type="line"/>
+      <point x="1152" y="510" type="line"/>
+      <point x="991" y="126" type="line"/>
+      <point x="606" y="-32" type="line"/>
+      <point x="222" y="129" type="line"/>
+      <point x="64" y="514" type="line"/>
+      <point x="75" y="898" type="line"/>
+      <point x="157" y="1122" type="line"/>
+      <point x="326" y="1289" type="line"/>
+    </contour>
+    <contour>
+      <point x="608" y="624" type="line"/>
+      <point x="529" y="591" type="line"/>
+      <point x="496" y="512" type="line"/>
+      <point x="529" y="433" type="line"/>
+      <point x="608" y="400" type="line"/>
+      <point x="687" y="433" type="line"/>
+      <point x="720" y="512" type="line"/>
+      <point x="687" y="591" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-32</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1036</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1105</integer>
+            <key>width</key>
+            <integer>303</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

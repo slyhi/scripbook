@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegasmcp" format="2">
+  <advance width="1249" height="1249"/>
+  <unicode hex="AB65"/>
+  <outline>
+    <contour>
+      <point x="625" y="1056" type="line"/>
+      <point x="1011" y="898" type="line"/>
+      <point x="1172" y="513" type="line"/>
+      <point x="1099" y="315" type="line"/>
+      <point x="1163" y="315" type="line"/>
+      <point x="1185" y="0" type="line"/>
+      <point x="703" y="0" type="line"/>
+      <point x="647" y="304" type="line"/>
+      <point x="733" y="382" type="line"/>
+      <point x="774" y="511" type="line"/>
+      <point x="736" y="628" type="line"/>
+      <point x="625" y="669" type="line"/>
+      <point x="514" y="628" type="line"/>
+      <point x="475" y="511" type="line"/>
+      <point x="517" y="382" type="line"/>
+      <point x="602" y="304" type="line"/>
+      <point x="547" y="0" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="86" y="315" type="line"/>
+      <point x="151" y="315" type="line"/>
+      <point x="77" y="513" type="line"/>
+      <point x="238" y="898" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1036</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

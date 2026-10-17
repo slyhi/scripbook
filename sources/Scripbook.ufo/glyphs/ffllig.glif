@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ffllig" format="2">
+  <advance width="2262" height="2262"/>
+  <unicode hex="FB04"/>
+  <outline>
+    <contour>
+      <point x="694" y="1488" type="line"/>
+      <point x="1029" y="1374" type="line"/>
+      <point x="1042" y="1396" type="line"/>
+      <point x="1375" y="1488" type="line"/>
+      <point x="1776" y="1410" type="line"/>
+      <point x="2008" y="1200" type="line"/>
+      <point x="2008" y="341" type="line"/>
+      <point x="2178" y="350" type="line"/>
+      <point x="2198" y="0" type="line"/>
+      <point x="1415" y="0" type="line"/>
+      <point x="1436" y="350" type="line"/>
+      <point x="1605" y="341" type="line"/>
+      <point x="1605" y="694" type="line"/>
+      <point x="1328" y="704" type="line"/>
+      <point x="1328" y="0" type="line"/>
+      <point x="909" y="0" type="line"/>
+      <point x="909" y="499" type="line"/>
+      <point x="908" y="694" type="line"/>
+      <point x="819" y="697" type="line"/>
+      <point x="771" y="694" type="line"/>
+      <point x="771" y="699" type="line"/>
+      <point x="660" y="704" type="line"/>
+      <point x="660" y="0" type="line"/>
+      <point x="242" y="0" type="line"/>
+      <point x="241" y="704" type="line"/>
+      <point x="104" y="694" type="line"/>
+      <point x="64" y="1024" type="line"/>
+      <point x="240" y="1024" type="line"/>
+      <point x="240" y="1150" type="line"/>
+      <point x="374" y="1396" type="line"/>
+    </contour>
+    <contour>
+      <point x="740" y="1120" type="line"/>
+      <point x="692" y="1104" type="line"/>
+      <point x="660" y="1056" type="line"/>
+      <point x="660" y="1024" type="line"/>
+      <point x="908" y="1024" type="line"/>
+      <point x="908" y="1099" type="line"/>
+    </contour>
+    <contour>
+      <point x="1455" y="1120" type="line"/>
+      <point x="1372" y="1104" type="line"/>
+      <point x="1328" y="1056" type="line"/>
+      <point x="1328" y="1024" type="line"/>
+      <point x="1611" y="1024" type="line"/>
+      <point x="1611" y="1088" type="line"/>
+      <point x="1534" y="1114" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>350</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>704</integer>
+            <key>width</key>
+            <integer>320</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>240</integer>
+            <key>width</key>
+            <integer>420</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>909</integer>
+            <key>width</key>
+            <integer>419</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1605</integer>
+            <key>width</key>
+            <integer>403</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

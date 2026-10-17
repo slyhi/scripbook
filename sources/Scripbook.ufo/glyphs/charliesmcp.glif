@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="charliesmcp" format="2">
+  <advance width="1113" height="1113"/>
+  <unicode hex="1D04"/>
+  <anchor x="608" y="1056" name="top"/>
+  <anchor x="608" y="-32" name="cedilla"/>
+  <anchor x="608" y="-32" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="608" y="1056" type="line"/>
+      <point x="1049" y="873" type="line"/>
+      <point x="748" y="572" type="line"/>
+      <point x="608" y="630" type="line"/>
+      <point x="525" y="595" type="line"/>
+      <point x="490" y="512" type="line"/>
+      <point x="525" y="429" type="line"/>
+      <point x="608" y="394" type="line"/>
+      <point x="748" y="452" type="line"/>
+      <point x="1049" y="151" type="line"/>
+      <point x="608" y="-32" type="line"/>
+      <point x="223" y="127" type="line"/>
+      <point x="64" y="512" type="line"/>
+      <point x="223" y="897" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-32</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1036</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

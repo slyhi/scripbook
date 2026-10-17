@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacap" format="2">
+  <advance width="1483" height="1483"/>
+  <unicode hex="042F"/>
+  <anchor x="782" y="1407" name="top"/>
+  <outline>
+    <contour>
+      <point x="1419" y="1408" type="line"/>
+      <point x="1419" y="0" type="line"/>
+      <point x="945" y="0" type="line"/>
+      <point x="942" y="356" type="line"/>
+      <point x="878" y="355" type="line"/>
+      <point x="634" y="0" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="376" y="453" type="line"/>
+      <point x="267" y="518" type="line"/>
+      <point x="116" y="836" type="line"/>
+      <point x="237" y="1248" type="line"/>
+      <point x="753" y="1408" type="line"/>
+    </contour>
+    <contour>
+      <point x="945" y="1020" type="line"/>
+      <point x="750" y="1015" type="line"/>
+      <point x="656" y="980" type="line"/>
+      <point x="620" y="878" type="line"/>
+      <point x="664" y="776" type="line"/>
+      <point x="750" y="739" type="line"/>
+      <point x="946" y="738" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1388</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>945</integer>
+            <key>width</key>
+            <integer>474</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

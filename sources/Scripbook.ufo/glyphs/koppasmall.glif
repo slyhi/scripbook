@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="koppasmall" format="2">
+  <advance width="1216" height="1216"/>
+  <unicode hex="03D9"/>
+  <anchor x="610" y="1055" name="top"/>
+  <outline>
+    <contour>
+      <point x="610" y="1056" type="line"/>
+      <point x="994" y="895" type="line"/>
+      <point x="1152" y="510" type="line"/>
+      <point x="991" y="126" type="line"/>
+      <point x="820" y="56" type="line"/>
+      <point x="814" y="-384" type="line"/>
+      <point x="387" y="-384" type="line"/>
+      <point x="404" y="52" type="line"/>
+      <point x="222" y="129" type="line"/>
+      <point x="64" y="514" type="line"/>
+      <point x="225" y="898" type="line"/>
+    </contour>
+    <contour>
+      <point x="608" y="617" type="line"/>
+      <point x="532" y="585" type="line"/>
+      <point x="500" y="509" type="line"/>
+      <point x="531" y="432" type="line"/>
+      <point x="608" y="400" type="line"/>
+      <point x="684" y="431" type="line"/>
+      <point x="716" y="508" type="line"/>
+      <point x="685" y="585" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-384</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1036</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>387</integer>
+            <key>width</key>
+            <integer>427</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>404</integer>
+            <key>width</key>
+            <integer>416</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

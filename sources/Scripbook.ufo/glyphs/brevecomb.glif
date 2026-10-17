@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb" format="2">
+  <advance width="0" height="0"/>
+  <unicode hex="0306"/>
+  <anchor x="-557" y="2300" name="mkmktop"/>
+  <anchor x="-561" y="1635" name="_mkmktop"/>
+  <anchor x="-561" y="1570" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-561" y="1698" type="line"/>
+      <point x="-923" y="1878" type="line"/>
+      <point x="-1070" y="2304" type="line"/>
+      <point x="-747" y="2304" type="line"/>
+      <point x="-694" y="2131" type="line"/>
+      <point x="-560" y="2057" type="line"/>
+      <point x="-426" y="2130" type="line"/>
+      <point x="-371" y="2304" type="line"/>
+      <point x="-47" y="2304" type="line"/>
+      <point x="-198" y="1874" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1698</integer>
+            <key>width</key>
+            <integer>606</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

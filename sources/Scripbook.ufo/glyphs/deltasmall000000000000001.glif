@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="deltasmall" format="2">
+  <advance width="1216" height="1216"/>
+  <unicode hex="03B4"/>
+  <anchor x="610" y="1455" name="top"/>
+  <outline>
+    <contour>
+      <point x="610" y="1456" type="line"/>
+      <point x="1011" y="1396" type="line"/>
+      <point x="914" y="1089" type="line"/>
+      <point x="656" y="1120" type="line"/>
+      <point x="608" y="1104" type="line"/>
+      <point x="610" y="1056" type="line"/>
+      <point x="994" y="895" type="line"/>
+      <point x="1152" y="510" type="line"/>
+      <point x="991" y="126" type="line"/>
+      <point x="606" y="-32" type="line"/>
+      <point x="222" y="129" type="line"/>
+      <point x="64" y="514" type="line"/>
+      <point x="225" y="898" type="line"/>
+      <point x="156" y="1118" type="line"/>
+      <point x="290" y="1364" type="line"/>
+    </contour>
+    <contour>
+      <point x="608" y="624" type="line"/>
+      <point x="529" y="591" type="line"/>
+      <point x="496" y="512" type="line"/>
+      <point x="529" y="433" type="line"/>
+      <point x="608" y="400" type="line"/>
+      <point x="687" y="433" type="line"/>
+      <point x="720" y="512" type="line"/>
+      <point x="687" y="591" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-32</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1436</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

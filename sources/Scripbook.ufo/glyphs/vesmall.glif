@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vesmall" format="2">
+  <advance width="995" height="995"/>
+  <unicode hex="0432"/>
+  <anchor x="474" y="1023" name="top"/>
+  <outline>
+    <contour>
+      <point x="64" y="1024" type="line"/>
+      <point x="545" y="1024" type="line"/>
+      <point x="806" y="924" type="line"/>
+      <point x="887" y="679" type="line"/>
+      <point x="847" y="518" type="line"/>
+      <point x="931" y="353" type="line"/>
+      <point x="844" y="101" type="line"/>
+      <point x="583" y="0" type="line"/>
+      <point x="64" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="410" y="727" type="line"/>
+      <point x="411" y="670" type="line"/>
+      <point x="519" y="670" type="line"/>
+      <point x="549" y="682" type="line"/>
+      <point x="556" y="701" type="line"/>
+      <point x="551" y="714" type="line"/>
+      <point x="527" y="727" type="line"/>
+    </contour>
+    <contour>
+      <point x="570" y="343" type="line"/>
+      <point x="411" y="342" type="line"/>
+      <point x="409" y="286" type="line"/>
+      <point x="586" y="287" type="line"/>
+      <point x="602" y="294" type="line"/>
+      <point x="610" y="314" type="line"/>
+      <point x="604" y="329" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>286</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1004</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

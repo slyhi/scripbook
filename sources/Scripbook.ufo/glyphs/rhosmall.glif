@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rhosmall" format="2">
+  <advance width="1203" height="1203"/>
+  <unicode hex="03C1"/>
+  <anchor x="594" y="1055" name="top"/>
+  <outline>
+    <contour>
+      <point x="594" y="1056" type="line"/>
+      <point x="980" y="898" type="line"/>
+      <point x="1139" y="510" type="line"/>
+      <point x="977" y="124" type="line"/>
+      <point x="588" y="-32" type="line"/>
+      <point x="483" y="8" type="line"/>
+      <point x="483" y="-384" type="line"/>
+      <point x="64" y="-384" type="line"/>
+      <point x="65" y="510" type="line"/>
+      <point x="64" y="514" type="line"/>
+      <point x="204" y="901" type="line"/>
+    </contour>
+    <contour>
+      <point x="591" y="624" type="line"/>
+      <point x="511" y="592" type="line"/>
+      <point x="478" y="512" type="line"/>
+      <point x="511" y="433" type="line"/>
+      <point x="590" y="400" type="line"/>
+      <point x="669" y="432" type="line"/>
+      <point x="702" y="512" type="line"/>
+      <point x="670" y="591" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-384</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-32</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1036</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>64</integer>
+            <key>width</key>
+            <integer>419</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

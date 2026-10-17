@@ -1,0 +1,8 @@
+/* Scripbook */
+@font-face {
+    font-family: "Scripbook";
+    font-weight: 100;
+    font-style: normal;
+    src: url("Scripbook.woff2") format("woff2"),
+         url("Scripbook.woff") format("woff");
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="juliettcap" format="2">
+  <advance width="1247" height="1247"/>
+  <unicode hex="004A"/>
+  <anchor x="568" y="-48" name="ogonek"/>
+  <anchor x="568" y="-48" name="cedilla"/>
+  <anchor x="945" y="1408" name="top"/>
+  <outline>
+    <contour>
+      <point x="386" y="1408" type="line"/>
+      <point x="1183" y="1408" type="line"/>
+      <point x="1155" y="499" type="line"/>
+      <point x="1002" y="100" type="line"/>
+      <point x="568" y="-48" type="line"/>
+      <point x="64" y="41" type="line"/>
+      <point x="186" y="487" type="line"/>
+      <point x="495" y="409" type="line"/>
+      <point x="611" y="416" type="line"/>
+      <point x="656" y="460" type="line"/>
+      <point x="664" y="510" type="line"/>
+      <point x="695" y="998" type="line"/>
+      <point x="427" y="990" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-48</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>990</integer>
+            <key>width</key>
+            <integer>418</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
